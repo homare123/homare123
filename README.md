@@ -8,4 +8,9 @@
 homare123/homare123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<head>shdkas</head>
+<head>kuni</head>
+<ol type=i>
+<li>モンゴル</li>
+<li>アンゴラ</li>
+<li>エルサルバドル</li>
+</ol>
